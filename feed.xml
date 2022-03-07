@@ -3,7 +3,7 @@
     <title>zhukoven.com</title>
     <link href="https://zhukoven.github.io/feed.xml" rel="self" />
     <link href="https://zhukoven.github.io" />
-    <updated>2022-03-07T19:25:52+03:00</updated>
+    <updated>2022-03-07T19:35:38+03:00</updated>
     <author>
         <name>zhukoven</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage.html"/>
-        <id>https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage.html</id>
+        <link href="https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage/"/>
+        <id>https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage/</id>
 
-        <updated>2022-03-07T19:25:52+03:00</updated>
+        <updated>2022-03-07T19:35:38+03:00</updated>
             <summary>
                 <![CDATA[
                      The recent 2021.2.27 update brings several breaking changes to the Zhukoven Dynamo package: The next package updates will use a slightly different release naming scheme - Calendar versioning, which will replace the actual package publish date I'm using now (YYYY.MM.DD) with Major.Minor.Micro scheme based&hellip;
@@ -93,8 +93,8 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/managing-images-is-easier-with-revit-20192.html"/>
-        <id>https://zhukoven.github.io/managing-images-is-easier-with-revit-20192.html</id>
+        <link href="https://zhukoven.github.io/managing-images-is-easier-with-revit-20192/"/>
+        <id>https://zhukoven.github.io/managing-images-is-easier-with-revit-20192/</id>
 
         <updated>2022-03-07T11:54:41+03:00</updated>
             <summary>
@@ -149,8 +149,8 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/revit-20192-forces-install-dynamo-update.html"/>
-        <id>https://zhukoven.github.io/revit-20192-forces-install-dynamo-update.html</id>
+        <link href="https://zhukoven.github.io/revit-20192-forces-install-dynamo-update/"/>
+        <id>https://zhukoven.github.io/revit-20192-forces-install-dynamo-update/</id>
 
         <updated>2022-03-07T11:54:41+03:00</updated>
             <summary>
@@ -237,8 +237,8 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/how-to-fix-revit-20192-update-install-issues.html"/>
-        <id>https://zhukoven.github.io/how-to-fix-revit-20192-update-install-issues.html</id>
+        <link href="https://zhukoven.github.io/how-to-fix-revit-20192-update-install-issues/"/>
+        <id>https://zhukoven.github.io/how-to-fix-revit-20192-update-install-issues/</id>
 
         <updated>2022-03-07T11:54:41+03:00</updated>
             <summary>
@@ -280,8 +280,8 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/aesthetics-in-data-visualization-hok-missioncontrol.html"/>
-        <id>https://zhukoven.github.io/aesthetics-in-data-visualization-hok-missioncontrol.html</id>
+        <link href="https://zhukoven.github.io/aesthetics-in-data-visualization-hok-missioncontrol/"/>
+        <id>https://zhukoven.github.io/aesthetics-in-data-visualization-hok-missioncontrol/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
@@ -341,8 +341,8 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/enscape3d-minor-update-24-deserves-a-major-title-here-is-why.html"/>
-        <id>https://zhukoven.github.io/enscape3d-minor-update-24-deserves-a-major-title-here-is-why.html</id>
+        <link href="https://zhukoven.github.io/enscape3d-minor-update-24-deserves-a-major-title-here-is-why/"/>
+        <id>https://zhukoven.github.io/enscape3d-minor-update-24-deserves-a-major-title-here-is-why/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
@@ -408,8 +408,8 @@ If you are an Enscape3D user like me, go ahead and try these awesome features: v
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/archicad-connection-add-in-updated-for-revit-2019.html"/>
-        <id>https://zhukoven.github.io/archicad-connection-add-in-updated-for-revit-2019.html</id>
+        <link href="https://zhukoven.github.io/archicad-connection-add-in-updated-for-revit-2019/"/>
+        <id>https://zhukoven.github.io/archicad-connection-add-in-updated-for-revit-2019/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
@@ -439,8 +439,8 @@ ArchiCAD connection may be also useful for non-ArchiCAD users, because it correc
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/farewell-to-the-revit-2019-extensions.html"/>
-        <id>https://zhukoven.github.io/farewell-to-the-revit-2019-extensions.html</id>
+        <link href="https://zhukoven.github.io/farewell-to-the-revit-2019-extensions/"/>
+        <id>https://zhukoven.github.io/farewell-to-the-revit-2019-extensions/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
@@ -466,8 +466,8 @@ Revit 2018 is the last version that supports Extensions.</p>
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/getting-some-data-from-revit-shared-parameters-with-dynamo.html"/>
-        <id>https://zhukoven.github.io/getting-some-data-from-revit-shared-parameters-with-dynamo.html</id>
+        <link href="https://zhukoven.github.io/getting-some-data-from-revit-shared-parameters-with-dynamo/"/>
+        <id>https://zhukoven.github.io/getting-some-data-from-revit-shared-parameters-with-dynamo/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
@@ -495,8 +495,8 @@ Revit 2018 is the last version that supports Extensions.</p>
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/revit-roadmap-update-september-2018.html"/>
-        <id>https://zhukoven.github.io/revit-roadmap-update-september-2018.html</id>
+        <link href="https://zhukoven.github.io/revit-roadmap-update-september-2018/"/>
+        <id>https://zhukoven.github.io/revit-roadmap-update-september-2018/</id>
 
         <updated>2022-03-07T11:54:40+03:00</updated>
             <summary>
