@@ -3,7 +3,7 @@
     <title>zhukoven.com</title>
     <link href="https://zhukoven.github.io/feed.xml" rel="self" />
     <link href="https://zhukoven.github.io" />
-    <updated>2022-03-07T19:23:02+03:00</updated>
+    <updated>2022-03-07T19:25:52+03:00</updated>
     <author>
         <name>zhukoven</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>zhukoven</name>
         </author>
-        <link href="https://zhukoven.github.io/20210228zhukoven-dynamo-23-package-update-and-github-homepage.html"/>
-        <id>https://zhukoven.github.io/20210228zhukoven-dynamo-23-package-update-and-github-homepage.html</id>
+        <link href="https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage.html"/>
+        <id>https://zhukoven.github.io/zhukoven-dynamo-23-package-update-and-github-homepage.html</id>
 
-        <updated>2022-03-07T19:23:02+03:00</updated>
+        <updated>2022-03-07T19:25:52+03:00</updated>
             <summary>
                 <![CDATA[
                      The recent 2021.2.27 update brings several breaking changes to the Zhukoven Dynamo package: The next package updates will use a slightly different release naming scheme - Calendar versioning, which will replace the actual package publish date I'm using now (YYYY.MM.DD) with Major.Minor.Micro scheme based&hellip;
